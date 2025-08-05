@@ -48,14 +48,12 @@ It uses exploratory data analysis (EDA), feature engineering, and machine learni
 
 ---
 
-## 🛠 Tools & Libraries
+##  Tools & Libraries
 
-- Python 🐍  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Scikit-learn  
-- Joblib  
+- python (Pandas, Matplotlib, Seaborn, Scikit-learn, Plotly)
 - Jupyter Notebook
+- Joblib (for model saving)
+- LabelEncoder & RandomForestClassifier (for ML)
 
 ---
 
